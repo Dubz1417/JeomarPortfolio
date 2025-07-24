@@ -1,4 +1,4 @@
-const words = ["Software Developer", "Student"];
+const words = ["Software Developer", "Student","pogi ko"];
 let i = 0;
 let j = 0;
 let currentWord = '';
